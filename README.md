@@ -10,6 +10,12 @@ V. Pasandi, H. Sadeghian, M. Keshmiri, D. Pucci, "An Integrated Programmable CPG
 
 <p align="center">
 
+
+https://user-images.githubusercontent.com/34647611/170982775-a75f0b8c-c685-4559-b70f-fc99c90fc868.mp4
+
+
+
+ 
 <div align="center">
 IEEE Transactions on Automatic Control, 2022
 </div>
@@ -17,8 +23,8 @@ IEEE Transactions on Automatic Control, 2022
 <div align="center">
   <a href="https://ieeexplore.ieee.org/document/9756235"><b>Paper</b></a> |
   <a href="https://arxiv.org/abs/2204.07766#:~:text=Cyclic%20motions%20are%20fundamental%20patterns,cyclic%20motions%20in%20robotic%20applications"><b>Pre-print</b></a> |
-  <a href="https://www.youtube.com/watch?v=WG_TlM6lt-8"><b>Video</b></a>
-  [Results](#results)
+  <a href="https://www.youtube.com/watch?v=WG_TlM6lt-8"><b>Video</b></a> |
+ <a href="Results"><b>Results</b></a>
 </div>
 
 ## Abstract
@@ -51,4 +57,4 @@ This repository is maintained by:
 
 | | |
 |:---:|:---:|
-| [<img src="https://github.com/VenusPasandi.png" width="40">](https://github.com/VenusPasandi) | [@VenusPasandi](https://github.com/VenusPasandi) |
+| [<img src="https://github.com/VenusPasandi.png" width="80">](https://github.com/VenusPasandi) | [@VenusPasandi](https://github.com/VenusPasandi) |
