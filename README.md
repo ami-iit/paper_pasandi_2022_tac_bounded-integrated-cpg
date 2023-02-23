@@ -41,14 +41,16 @@ If you find the work useful, please consider citing:
 
 ```bibtex
 @article{pasandi2022integrated,
-  title={An Integrated Programmable CPG with Bounded Output},
-  author={Pasandi, Venus and Sadeghian, Hamid and Keshmiri, Mahdi and Pucci, Daniele},
+  title={An integrated programmable CPG with bounded output},
+  author={Pasandi, Venus and Sadeghian, Hamid and Keshmiri, Mehdi and Pucci, Daniele},
   journal={IEEE Transactions on Automatic Control},
+  volume={67},
+  number={9},
+  pages={4658--4673},
   year={2022},
-  publisher={IEEE}
+  publisher={IEEE},
   doi={10.1109/TAC.2022.3166715}
 }
-
 ```
 
 ### Maintainer
